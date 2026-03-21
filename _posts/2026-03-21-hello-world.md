@@ -12,7 +12,7 @@ For a while now, I've wanted to build a technical portfolio-blog hybrid of sorts
 
 ### So, what's it for?
 
-My plan for this website is to start off with writing a number of posts on 3D pixel art. It's a topic that I'm very passionate about and I've been researching it on and off for several years now. Between my Master thesis on said topic, a custom 3D tilemapping tool and a variety of shader experiments, I've gained a lot of insights I'd like to write out properly. Both as documentation for myself, but also as a resource for others who'd like to work on something similar themselves.
+My plan for this website is to start off writing a number of posts on 3D pixel art. It's a topic that I'm very passionate about and I've been researching it on and off for several years now. Between my Master thesis on said topic, a custom 3D tilemapping tool and a variety of shader experiments, I've gained a lot of insights I'd like to write out properly. Both as documentation for myself, but also as a resource for others who'd like to work on something similar themselves.
 
 The first post on the topic will be more theoretical, giving an overview of different approaches you can take to combine modern 3D rendering with pixel art by analysing existing games. From there, I will delve deeper into each individual approach and use my own Unity projects to illustrate specific techniques. I don't plan to go full tutorial-mode with my explanations, but I will try to provide you with enough of a theoretical understanding so you can (hopefully) apply it to your game engine of choice.
 
