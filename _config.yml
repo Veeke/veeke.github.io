@@ -9,41 +9,38 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone: Asia/Shanghai
+timezone: Europe/Amsterdam
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Veeke # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Game Dev & Technical Artist # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  My personal site and technical blog on game dev and computer graphics related topics
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://veeke.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: veeke # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: "" # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Veeke
+  email: "" # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://bsky.app/profile/imveeke.bsky.social
+    - https://github.com/veeke # change to your GitHub homepage
 
 # Site Verification Settings
 webmaster_verifications:
@@ -89,17 +86,17 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://cdn.bsky.app/img/avatar/plain/did:plc:bwj4urkuuqaxf7ylcdlm7a3v/bafkreibswqkygjxeifcyrwrrnt6j355gyvat6ngiwf4w73gbowqysfzpzm"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
