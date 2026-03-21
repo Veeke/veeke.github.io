@@ -14,7 +14,7 @@ During my research on 3D pixel art games and shader programming, I've come acros
 - ▶️ [RadicalFishGames - Geometry skewing & texture mapping breakdown (timestamp)](https://www.youtube.com/watch?v=K-XQ5vUphko&t=5142s)
 - ▶️ [RadicalFishGames - Breakdown of the 3D tiles (timestamp)](https://www.youtube.com/watch?v=jLrc1soGl3M&t=3513s)
 - ▶️ [Songs of Conquest developer interview - Technical Artist](https://www.youtube.com/watch?v=oPpnQzze2qs)
-- 📄 [Songs of Conquest - Mixing 2D Billboards and 3D Environments in a Game](80.lv/articles/mixing-2d-billboards-and-3d-environments-in-a-game/)
+- 📄 [Songs of Conquest - Mixing 2D Billboards and 3D Environments in a Game](https://80.lv/articles/mixing-2d-billboards-and-3d-environments-in-a-game)
 - 📄 [Adding depth to 2D With hand-drawn normal maps in The Siege and the Sandfox](https://www.gamedeveloper.com/art/adding-depth-to-2d-with-hand-drawn-normal-maps-in-i-the-siege-and-the-sandfox-i-)
 
 #### Custom Pixel Art Filtering
